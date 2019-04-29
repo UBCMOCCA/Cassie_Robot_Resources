@@ -10,6 +10,7 @@ list of papers, videos and codes about the bipedal robot Cassie developed by Agi
 - Dynamic Autonomy and Intelligent Robotics (DAIR) Lab at University of Pennsylvania: https://dair.seas.upenn.edu/.
 - The Laboratory for Intelligent Decision and Autonomous Robots (LIDAR) at Georgia Tech: https://sites.google.com/site/yezhaout/home.
 - Optimal Robotics Lab at Florida State University: http://www.christianhubicki.com/.
+- MOCCA Lab at University of British Columbia: https://www.cs.ubc.ca/~van/papers/index.html.
 
 ## Cassie Simulators
 - Mujoco: https://github.com/osudrl/cassie-mujoco-sim.
