@@ -6,6 +6,7 @@ list of papers, videos and codes about the bipedal robot Cassie developed by Agi
 - Dynamic Legged Locomotion Lab at University of Michigan: https://www.biped.solutions/.
 - ROAHM Lab at University of Michigan: http://www.roahmlab.com/.
 - AMBER Lab at Caltech: http://www.bipedalrobotics.com/.
+- Agile Robotics Laboratory at Harvard: https://agile.seas.harvard.edu/.
 - Dynamic Autonomy and Intelligent Robotics (DAIR) Lab at University of Pennsylvania: https://dair.seas.upenn.edu/.
 - The Laboratory for Intelligent Decision and Autonomous Robots (LIDAR) at Georgia Tech: https://sites.google.com/site/yezhaout/home.
 - Optimal Robotics Lab at Florida State University: http://www.christianhubicki.com/.
