@@ -1,7 +1,7 @@
 # Cassie_Robot_Resources
 list of papers, videos and codes about the bipedal robot Cassie developed by Agility Robotics
 
-## Labs with Cassie
+## Labs working on Cassie
 - Dynamic Robotics Laboratory at Oregon State University: https://mime.oregonstate.edu/research/drl/
 - Dynamic Legged Locomotion Lab at University of Michigan: https://www.biped.solutions/.
 - ROAHM Lab at University of Michigan: http://www.roahmlab.com/.
