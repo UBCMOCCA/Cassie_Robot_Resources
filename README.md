@@ -35,7 +35,7 @@ list of papers, videos and codes about the bipedal robot Cassie developed by Agi
   
 ## Control
 ### Fun Skill
--Feedback Control for Autonomous Riding of Hovershoes by a Cassie Bipedal Robot.
+- Feedback Control for Autonomous Riding of Hovershoes by a Cassie Bipedal Robot.
   - video: https://youtu.be/b2fKBb_0iTo
 ### Reinforcement Learning
 - Zhaoming Xie, Patrick Clary, Jeremy Dao, Pedro Morais, Jonathan Hurst, Michiel van de Panne, Iterative Reinforcement Learning Based Design of Dynamic Locomotion Skills for Cassie.
