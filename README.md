@@ -11,6 +11,7 @@ list of papers, videos and codes about the bipedal robot Cassie developed by Agi
 - The Laboratory for Intelligent Decision and Autonomous Robots (LIDAR) at Georgia Tech: https://sites.google.com/site/yezhaout/home.
 - Optimal Robotics Lab at Florida State University: http://www.christianhubicki.com/.
 - MOCCA Lab at University of British Columbia: https://www.cs.ubc.ca/~van/papers/index.html.
+- Hybrid Robotics Lab: https://hybrid-robotics.berkeley.edu/.
 
 ## Cassie Simulators
 - Mujoco: https://github.com/osudrl/cassie-mujoco-sim.
@@ -33,6 +34,9 @@ list of papers, videos and codes about the bipedal robot Cassie developed by Agi
   - video: https://youtu.be/QnFoMR47OBI
   
 ## Control
+### Fun Skill
+-Feedback Control for Autonomous Riding of Hovershoes by a Cassie Bipedal Robot.
+  - video: https://youtu.be/b2fKBb_0iTo
 ### Reinforcement Learning
 - Zhaoming Xie, Patrick Clary, Jeremy Dao, Pedro Morais, Jonathan Hurst, Michiel van de Panne, Iterative Reinforcement Learning Based Design of Dynamic Locomotion Skills for Cassie.
   - paper: https://arxiv.org/abs/1903.09537.
